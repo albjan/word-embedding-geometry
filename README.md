@@ -1,3 +1,1 @@
-# word-embedding-geometry
-
-can we learn some manifolds in 3 days?
+# Refining Word Embeddings with Manifold Learning Techniques
